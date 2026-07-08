@@ -88,15 +88,15 @@ I am a passionate AI & Machine Learning Engineer from India, focused on building
   <table border="0" cellspacing="0" cellpadding="4">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=testgithub&show_icons=true&theme=default&hide_border=true&rank_icon=github&bg_color=ffffff&title_color=0969da&icon_color=0969da&text_color=24292f" alt="Viman's GitHub Stats" height="155"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=    VimanBala-Virito&show_icons=true&theme=default&hide_border=true&rank_icon=github&bg_color=ffffff&title_color=0969da&icon_color=0969da&text_color=24292f" alt="Viman's GitHub Stats" height="155"/>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=testgithub&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=0969da&text_color=24292f" alt="Top Languages" height="155"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=    VimanBala-Virito&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=0969da&text_color=24292f" alt="Top Languages" height="155"/>
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=testgithub&theme=default&hide_border=true&background=ffffff&ring=0969da&fire=0969da&currStreakLabel=0969da&sideLabels=24292f&dates=57606a&currStreakNum=24292f&sideNums=24292f" alt="GitHub Streak" width="100%"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=    VimanBala-Virito&theme=default&hide_border=true&background=ffffff&ring=0969da&fire=0969da&currStreakLabel=0969da&sideLabels=24292f&dates=57606a&currStreakNum=24292f&sideNums=24292f" alt="GitHub Streak" width="100%"/>
       </td>
     </tr>
   </table>
@@ -106,7 +106,7 @@ I am a passionate AI & Machine Learning Engineer from India, focused on building
 
 ## 📬 Get In Touch
 
-📧 &nbsp;**Email:** testexample@com &nbsp;&nbsp;|&nbsp;&nbsp; 📄 &nbsp;**Resume:** [View here](testresume) &nbsp;&nbsp;|&nbsp;&nbsp; 💼 &nbsp;**Portfolio:** [testportfolio](testportfolio)
+📧 &nbsp;**Email:** ryuuvirito@gmail.com &nbsp;&nbsp;|&nbsp;&nbsp; 📄 &nbsp;**Resume:** [View here](testresume) &nbsp;&nbsp;|&nbsp;&nbsp; 💼 &nbsp;**Portfolio:** [testportfolio](testportfolio)
 
 ---
 
