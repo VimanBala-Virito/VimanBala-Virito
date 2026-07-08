@@ -25,7 +25,7 @@ I am a passionate AI & Machine Learning Engineer from India, focused on building
 ### 🚀 About Me
 
 - 🔭 Currently working on **A improving student at Brainware University**
-- 🌱 Currently learning **WebAssembly, systems design , LLms**
+- 🌱 Currently learning **WebAssembly, systems design , LLms , RAG**
 - 💬 Ask me about **Kubernetes, API design, compilers**
 - ⚡ Fun fact: I love Reading Webnovels
 - 📫 Reach me: `ryuuvirito@gmail.com`
