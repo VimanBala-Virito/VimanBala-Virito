@@ -18,17 +18,17 @@
 
 ## 🧠 About Me
 
-I am a passionate AI/ML and RAG Developer from India, focused on building intelligent systems that work at the edge and at scale. I enjoy turning complex machine learning concepts into practical, real-world applications — from retrieval-augmented generation pipelines to on-device inference. Currently deepening my expertise in advanced RAG techniques and vector search optimization, and always open to collaborating on meaningful AI projects. When I am not coding, you will likely find me lost in a good Webnovel.
+I am a passionate AI & Machine Learning Engineer from India, focused on building intelligent systems that work at the edge and at scale. I enjoy turning complex machine learning concepts into practical, real-world applications — from retrieval-augmented generation pipelines to on-device inference. Currently deepening my expertise in advanced RAG techniques and vector search optimization, and always open to collaborating on meaningful AI projects. When I am not coding, you will likely find me lost in a good Webnovel.
 
 ---
 
-## 🚀 What I'm Up To
+### 🚀 About Me
 
-🔭 &nbsp;Building an **[Edge AI Project](testlink)** — pushing inference to the device level  
-✅ &nbsp;Shipped a **[Simulated UPI App](testlink)** — a full-stack fintech simulation  
-🌱 &nbsp;Learning advanced **RAG pipelines** and vector search optimization  
-🤝 &nbsp;Open to collaborating on **[RAG and AI/ML projects](testlink)**  
-💬 &nbsp;Ask me about **Python, GitHub, or anything AI/ML**  
+- 🔭 Currently working on **A improving student at Brainware University**
+- 🌱 Currently learning **WebAssembly, systems design , LLms**
+- 💬 Ask me about **Kubernetes, API design, compilers**
+- ⚡ Fun fact: I love Reading Webnovels
+- 📫 Reach me: `ryuuvirito@gmail.com`
 
 ---
 
